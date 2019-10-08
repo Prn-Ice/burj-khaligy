@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The Burj Khalifa Security App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Burj_Khalifa_Security_App_jar</output-path>
+    <root id="archive" name="The Burj Khalifa Security App.jar">
+      <element id="module-output" name="The Burj Khalifa Security App" />
+    </root>
+  </artifact>
+</component>

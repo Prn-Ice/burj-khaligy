@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="The Burj Khalifa Security App">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Burj_Khalifa_Security_App</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.storm.securityForm.Main" />
+        <option name="description" value="Burj Security Center Login" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/com/storm/securityForm/exe.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Burj Security Center" />
+        <option name="vendor" value="Havoc Tech" />
+        <option name="version" value="1.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="The_Burj_Khalifa_Security_App.jar">
+        <element id="module-output" name="The Burj Khalifa Security App" />
+      </element>
+    </root>
+  </artifact>
+</component>
